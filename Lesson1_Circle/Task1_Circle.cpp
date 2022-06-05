@@ -20,3 +20,4 @@ int main()
     c1 -= 5;
     cout << c1.getLength();
 }
+
